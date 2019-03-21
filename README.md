@@ -1,2 +1,2 @@
 # The-GCD-Number
-نمایش ب.م.م دو عدد دریافتی از کاربر
+The GCD Number of two input values.
